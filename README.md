@@ -1,6 +1,6 @@
 # Domain-Smoothing Network for Zero-Shot Sketch-Based Image Retrieval
 
-This project is our implementation of Domain-Smoothing Network **(DSN)** for Zero-Shot Sketch-Based Image Retrieval. The details in methods and experiments could be found in the [paper]()
+This project is our implementation of Domain-Smoothing Network **(DSN)** for Zero-Shot Sketch-Based Image Retrieval. The details in methods and experiments could be found in the [paper](https://arxiv.org/abs/2106.11841)
 
 ![framework](./fig/framework.png)
 
