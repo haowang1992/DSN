@@ -7,6 +7,14 @@ This project is our implementation of Domain-Smoothing Network **(DSN)** for Zer
 If you find this project helpful, please consider to cite our paper:
 
 ```
+@misc{wang2021domainsmoothing,
+      title={Domain-Smoothing Network for Zero-Shot Sketch-Based Image Retrieval}, 
+      author={Zhipeng Wang and Hao Wang and Jiexi Yan and Aming Wu and Cheng Deng},
+      year={2021},
+      eprint={2106.11841},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
 
 ## Dataset
@@ -43,7 +51,7 @@ python test_cse_resnet_tuberlin_zeroshot.py
 
 ## Pre-trained Models
 
-Our trained models for Skethy Ext and TU-Berlin Ext with 64-d features in default setting can be downloaded from [here](). Please modify the file name of pre-trained models to `model_best.pth.tar` then put it to the corresponding directory in `./cse_resnet50/checkpoint/`. 
+Our trained models for Skethy Ext and TU-Berlin Ext with 64-d features in default setting can be downloaded from [here, passwd: DSN2](https://pan.baidu.com/s/12L9hsoYxH9bglG9lnT6N_Q). Please modify the file name of pre-trained models to `model_best.pth.tar` then put it to the corresponding directory in `./cse_resnet50/checkpoint/`. 
 
 For example, the path of pre-trained model for Sketchy Ext in default experimental setting should be:
 
